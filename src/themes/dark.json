@@ -1,0 +1,27 @@
+{
+    "direction":"ltr",
+    "typography":{
+        "fontFamily":"crayond_regular"
+    },
+    "palette": {
+        "mode":"dark",
+        "primary": {
+            "light": "#ff33b9",
+            "main": "#ff00a8",
+            "dark": "#b20075",
+            "contrastText": "#fff"
+        },
+        "secondary": {
+            "light": "#766dde",
+            "main": "#5449d6",
+            "dark": "#3a3395",
+            "contrastText": "#fff"
+        },
+        "error": {
+            "light": "#e57373",
+            "main": "#f44336",
+            "dark": "#d32f2f",
+            "contrastText": "#fff"
+        }
+    }
+}

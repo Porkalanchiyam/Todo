@@ -1,0 +1,31 @@
+{
+    "direction": "ltr",
+    "typography": {
+        "fontFamily": "crayond_regular"
+    },
+    "palette": {
+        "mode": "light",
+        "primary": {
+            "light": "#ff33b9",
+            "main": "#0072C6",
+            "dark": "#b20075",
+            "contrastText": "#fff"
+        },
+        "secondary": {
+            "light": "#766dde",
+            "main": "#012a5c",
+            "dark": "#3a3395",
+            "contrastText": "#fff"
+        },
+        "error": {
+            "light": "#e57373",
+            "main": "#f44336",
+            "dark": "#d32f2f",
+            "contrastText": "#fff"
+        },
+        "background": {
+            "default": "#fafafa",
+            "paper": "#fff"
+        }
+    }
+}
