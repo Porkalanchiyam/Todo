@@ -1,7 +1,7 @@
 {
     "direction": "ltr",
     "typography": {
-        "fontFamily": "crayond_regular"
+        "fontFamily": "f_regular"
     },
     "palette": {
         "mode": "light",

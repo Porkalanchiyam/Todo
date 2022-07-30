@@ -1,10 +1,10 @@
 {
-    "direction":"ltr",
-    "typography":{
-        "fontFamily":"crayond_regular"
+    "direction": "ltr",
+    "typography": {
+        "fontFamily": "f_regular"
     },
     "palette": {
-        "mode":"dark",
+        "mode": "dark",
         "primary": {
             "light": "#ff33b9",
             "main": "#ff00a8",
